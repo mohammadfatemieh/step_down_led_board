@@ -1,4 +1,4 @@
-update=3/24/2017 2:45:42 PM
+update=3/29/2017 3:46:00 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,6 +59,3 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=buckmodule
-LibName32=switches
-LibName33=mcp73831
-LibName34=si4833bdy
