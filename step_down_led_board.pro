@@ -1,4 +1,4 @@
-update=3/24/2017 2:45:42 PM
+update=Wed 21 Feb 2018 12:15:49 PM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,7 +58,8 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=buckmodule
-LibName32=switches
-LibName33=mcp73831
-LibName34=si4833bdy
+LibName30=/home/thatch/goog/makerspace-partsbin/electronics/_kicad_library/switcher-monolithicpower
+LibName31=/home/thatch/goog/makerspace-partsbin/electronics/_kicad_library/zeropin
+LibName32=/home/thatch/goog/makerspace-partsbin/electronics/_kicad_library/cap_net_tie
+LibName33=/home/thatch/goog/makerspace-partsbin/electronics/_kicad_library/tlv43x
+LibName34=switches

@@ -1,6 +1,7 @@
 (fp_lib_table
   (lib (name jumper)(type KiCad)(uri "$(KIPRJMOD)/../mcous-kicad-lib/footprints/jumper.pretty")(options "")(descr ""))
   (lib (name Polarity)(type KiCad)(uri "$(KIPRJMOD)/../tim-kicad-libs/Polarity.pretty")(options "")(descr ""))
-  (lib (name BuckModule-Tim)(type KiCad)(uri "$(KIPRJMOD)/../tim-kicad-libs/BuckModule-Tim.pretty")(options "")(descr ""))
-  (lib (name SolderJumpers-Tim)(type KiCad)(uri Z:/home/tim/kicad/tim-kicad-libs/SolderJumpers-Tim.pretty)(options "")(descr ""))
+  (lib (name Capacitors_SMD_Round)(type KiCad)(uri "$(KIPRJMOD)/makerspace-partsbin/electronics/_kicad_library/Capacitors_SMD_Round.pretty")(options "")(descr ""))
+  (lib (name Polarity_Symbols)(type KiCad)(uri "$(KIPRJMOD)/makerspace-partsbin/electronics/_kicad_library/Polarity_Symbols.pretty")(options "")(descr ""))
+  (lib (name Board_Outlines)(type KiCad)(uri "$(KIPRJMOD)/makerspace-partsbin/electronics/_kicad_library/Board_Outlines.pretty")(options "")(descr ""))
 )
