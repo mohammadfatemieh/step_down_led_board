@@ -1,3 +1,6 @@
 [submodule "makerspace-partsbin"]
 	path = makerspace-partsbin
 	url = https://github.com/google/makerspace-partsbin
+[submodule "certification-mark"]
+	path = certification-mark
+	url = https://github.com/thatch/certification-mark
