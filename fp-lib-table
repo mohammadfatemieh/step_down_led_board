@@ -4,4 +4,5 @@
   (lib (name Capacitors_SMD_Round)(type KiCad)(uri "$(KIPRJMOD)/makerspace-partsbin/electronics/_kicad_library/Capacitors_SMD_Round.pretty")(options "")(descr ""))
   (lib (name Polarity_Symbols)(type KiCad)(uri "$(KIPRJMOD)/makerspace-partsbin/electronics/_kicad_library/Polarity_Symbols.pretty")(options "")(descr ""))
   (lib (name Board_Outlines)(type KiCad)(uri "$(KIPRJMOD)/makerspace-partsbin/electronics/_kicad_library/Board_Outlines.pretty")(options "")(descr ""))
+  (lib (name OSHWA_Certification_Mark)(type KiCad)(uri "$(KIPRJMOD)/certification-mark/templates/kicad/OSHWA_Certification_Mark.pretty")(options "")(descr ""))
 )
